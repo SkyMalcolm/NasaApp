@@ -1,0 +1,44 @@
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+#date {
+  text-align: center;
+  color: black;
+}
+
+#format {
+    text-align: center;
+}
+
+.wrapper {
+ display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+}
+
+#info {
+  color: black;
+}
+
+#writing {
+  margin: 50px;
+}
+
+#photo {
+    display: flex;
+  justify-content: center;
+}
+
+img {
+    max-height: 150vh;
+    max-width: 150vw;
+    position: relative;
+  }
